@@ -1,0 +1,71 @@
+<p>&nbsp;</p>
+
+<h2>Sobre</h2>
+
+<p>A nova camisa da Sele&ccedil;&atilde;o Brasileira para a Copa do Mundo de 2022 em sua vers&atilde;o Torcedor, com cores vibrantes e um desenho incrivel e um degrad&ecirc; na cor verde presente nas duas mangas ainda conta com as pintas da on&ccedil;a pintada.&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h2>Caracter&iacute;sticas</h2>
+
+<p><strong>Material da Camisa:</strong>&nbsp;100% Poli&eacute;ster</p>
+
+<p><strong>Escudo do Time:</strong> Bordado</p>
+
+<p><strong>Escudo do Patrocinador:</strong> Bordado</p>
+
+<p><strong>Vers&atilde;o: </strong>Torcedor</p>
+
+<p><strong>G&ecirc;nero:</strong> Feminino</p>
+
+<p><strong>Personaliza&ccedil;&atilde;o:</strong> Sim</p>
+
+<p>&nbsp;</p>
+
+<h2>Medidas</h2>
+
+<div class="oversize">
+<table class="table paginadeprodutos">
+	<tbody>
+		<tr>
+			<th>Tamanho</th>
+			<th>Comprimento - CM</th>
+			<th>Largura - CM</th>
+			<th>Altura - CM</th>
+			<th>Peso - KG</th>
+		</tr>
+		<tr>
+			<td><strong>P</strong></td>
+			<td>67-69</td>
+			<td>49-51</td>
+			<td>162-170</td>
+			<td>50-62</td>
+		</tr>
+		<tr>
+			<td><strong>M</strong></td>
+			<td>69-71</td>
+			<td>51-53</td>
+			<td>170-175</td>
+			<td>62-75</td>
+		</tr>
+		<tr>
+			<td><strong>G</strong></td>
+			<td>71-73</td>
+			<td>53-55</td>
+			<td>175-180</td>
+			<td>75-80</td>
+		</tr>
+		<tr>
+			<td><strong>GG</strong></td>
+			<td>73-76</td>
+			<td>55-57</td>
+			<td>180-185</td>
+			<td>80-85</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Considere uma margem de erro entre 1-4 centimetros em cada medida.</strong></p>
+
+<p>&nbsp;</p>
