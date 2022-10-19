@@ -1,0 +1,71 @@
+<p>&nbsp;</p>
+
+<h2>Sobre</h2>
+
+<p>Essa &eacute; a nova camisa da Nike na vers&atilde;o Torcedor da Sele&ccedil;&atilde;o Brasileira para 2022, rica em detalhes e trazendo refer&ecirc;ncias ao nosso querido Brasil a camisa conta com detalhes da on&ccedil;a pintada por todo o tecido, al&eacute;m das cores verde, amarelo e azul.</p>
+
+<p>&nbsp;</p>
+
+<h2>Caracter&iacute;sticas</h2>
+
+<p><strong>Material da Camisa:</strong>&nbsp;100% Poli&eacute;ster</p>
+
+<p><strong>Escudo do Time:</strong> Bordado</p>
+
+<p><strong>Escudo do Patrocinador:</strong> Bordado</p>
+
+<p><strong>Vers&atilde;o: </strong>Torcedor</p>
+
+<p><strong>G&ecirc;nero:</strong> Masculino</p>
+
+<p><strong>Personaliza&ccedil;&atilde;o:</strong> Sim</p>
+
+<p>&nbsp;</p>
+
+<h2>Medidas</h2>
+
+<div class="oversize">
+<table class="table paginadeprodutos azul">
+	<tbody>
+		<tr>
+			<th>Tamanho</th>
+			<th>Comprimento - CM</th>
+			<th>Largura - CM</th>
+			<th>Altura - CM</th>
+			<th>Peso - KG</th>
+		</tr>
+		<tr>
+			<td><strong>P</strong></td>
+			<td>69-71</td>
+			<td>53-55</td>
+			<td>162-170</td>
+			<td>50-62</td>
+		</tr>
+		<tr>
+			<td><strong>M</strong></td>
+			<td>71-73</td>
+			<td>57-57</td>
+			<td>170-176</td>
+			<td>62-78</td>
+		</tr>
+		<tr>
+			<td><strong>G</strong></td>
+			<td>73-75</td>
+			<td>57-58</td>
+			<td>176-182</td>
+			<td>78-83</td>
+		</tr>
+		<tr>
+			<td><strong>GG</strong></td>
+			<td>75-78</td>
+			<td>58-60</td>
+			<td>182-190</td>
+			<td>83-90</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p><strong>Considere uma margem de erro entre 1-4 centimetros em cada medida.</strong></p>
+
+<p>&nbsp;</p>
