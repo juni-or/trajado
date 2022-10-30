@@ -108,7 +108,36 @@ background: rgb(255, 255, 255, 0.8)!important;
     border-radius: 8px;
 }
 section[data-store="slider-main"] .svg-icon-text.svg-solid {
-    background: transparent;
+    background: rgb(255, 255, 255, 0.7)!important;
+    backdrop-filter: blur(10px)!important;
+    border: 1px solid #FFF;
+    box-shadow: 0 1px 10px 0 rgb(0, 0, 0, 0.1)!important;
+    height: 40px;
+    width: 40px;
+    opacity: 0;
+    line-height: 29px;
+    transition: all .3s;
+}
+section[data-store="slider-main"] .svg-icon-text.svg-solid:hover {
+    opacity: 1;
+}
+section[data-store="slider-main"] .svg-icon-text.svg-solid svg {
+    font-size: 1em;
+    margin: 0!important;
+}
+.swiper-pagination-bullet {
+    width: 8px;
+    height: 8px;
+    display: inline-block;
+    border-radius: 100%;
+    background: rgb(255, 255, 255, 0.7)!important;
+    border: 1px solid #FFF;
+    opacity: .5;
+}
+.swiper-pagination-bullet-active {
+    background: rgb(255, 255, 255, 0.7)!important;
+    backdrop-filter: blur(10px)!important;
+    border: 1px solid #FFF;
 }
 .form-control-container .form-control.js-quantity-input.form-control-inline, .form-control.js-cart-quantity-input.text-center.h6.form-control-inline {
     border: unset!important;
