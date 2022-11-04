@@ -262,3 +262,12 @@ section[data-store="slider-main"] .svg-icon-text.svg-solid svg {
 .item-installments {
     font-size: 14px;
 }
+.section-newsletter-home{margin-bottom: 0!important;padding: 0!important;background: #fff!important;color: #000!important;}
+.js-newsletter.newsletter .text-uppercase, .js-newsletter.newsletter .alert :before{display: none;}
+.js-newsletter.newsletter .alert {color: #000;border-color: #000;border: 2px solid;font-weight: bold;}
+.js-newsletter.newsletter .mt-5{margin-top: 0px!important;}
+.js-newsletter.newsletter .input-append {background: #083fb3;padding: 20px;border-radius: 8px;}
+.js-newsletter.newsletter .form-group {margin-bottom: 0!important;}
+.js-newsletter.newsletter .form-control{border: 0!important;color: #000!important;}
+.js-newsletter.newsletter .form-control::placeholder {color: #000!important;}
+.newsletter form .newsletter-btn {top: 38px;right: 38px;width: 15px;height: 15px;fill: #000!important;}
