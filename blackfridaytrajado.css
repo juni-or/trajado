@@ -1,7 +1,0 @@
-body {
-    filter: invert(1);
-    background: #000;
-}
-.slider-slide, .item-image, .swiper-slide.slide-container, .textbanner-image, .swiper-slide, .product-thumb, img {
-    filter: invert(1)!important;
-}
