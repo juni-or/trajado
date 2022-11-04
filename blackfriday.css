@@ -5,3 +5,4 @@ body {
 .slider-slide, .item-image, .swiper-slide.slide-container, .textbanner-image, .swiper-slide, .product-thumb {
     filter: invert(1)!important;
 }
+img{filter: invert(1);!important}
