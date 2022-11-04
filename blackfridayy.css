@@ -1,0 +1,25 @@
+body {
+    filter: invert(1);
+    background: #000;
+}
+img {
+    filter: invert(1)!important;
+}
+.logo-img-container img{filter:invert(0)!important}
+
+.head-primary, .btn-primary, .btn-secondary, .footer-legal, .form-control:hover, .form-select:hover, .form-quantity:hover, .radio-button input[type="radio"]:checked+.radio-button-content, .form-control, .form-select, .form-quantity:hover, .svg-icon-primary.svg-circle{border-color: #f7c04c!important}
+
+.head-primary .badge, .btn-primary {color: #000!important;}
+
+.head-primary .badge, .btn-primary, .social-icon-rounded, .modal-header, .text-accent, .radio-button input[type="radio"]:checked+.radio-button-content .radio-button-icons-container{background: #f7c04c!important;}
+
+.item-price, .btn-secondary, .btn-link-primary:hover, .btn-link-primary:focus{color: #f7c04c!important;}
+
+.svg-icon-primary, footer .contact-item-icon, .svg-icon-accent, .form-control:hover+.form-select-icon, .form-select:hover+.form-select-icon, .form-quantity:hover+.form-select-icon {fill: #f7c04c !important;}
+
+.social-icon-rounded{fill: #000!important;}
+footer a, footer .contact-link, footer a:hover, footer .contact-link:hover{color: #000!important;}
+
+.footer-legal {
+    border-top: 1px solid rgb(0 0 0 / 8%)!important;
+}
