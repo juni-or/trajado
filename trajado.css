@@ -1,0 +1,32 @@
+/* LAYOUT */
+
+/* ESTRUTURA */
+
+/*@media (min-width: 768px)
+.container-fluid {
+    padding: 0 200px!important;
+}*/
+@media (min-width: 768px)
+.container-fluid {
+    padding: 0 40px;
+    max-width: 1500px;
+}
+
+/* SEARCH MODAL */
+.modal-nav-search {
+    background-color: rgba(0,0,0,0.88);
+    color: #fff;
+    fill: #fff;
+    backdrop-filter: blur(15px);
+}
+
+.modal-nav-search .search-input-submit svg{fill: #000;}
+
+/* CARRINHO */
+.cart-item-name a {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+}
