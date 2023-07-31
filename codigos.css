@@ -1,4 +1,4 @@
-*/ aviso abaixo do banner /*
+/* aviso abaixo do banner */
 section[data-store="slider-main"] .js-home-main-slider-container:after {
 		content: "Devido à mudança de plataforma, alguns modelos de tênis ainda não foram adicionados em nosso site. Se você não encontrar o modelo desejado, entre em contato conosco para verificar a disponibilidade.";
 		background: #00042b;
@@ -11,3 +11,41 @@ section[data-store="slider-main"] .js-home-main-slider-container:after {
 		cursor: pointer;
 		line-break: auto;
 	}
+
+/* css banner de ofertas para produtos na home (box) */
+
+.js-item-image-padding.position-relative[data-store="product-item-image-168087597"]:AFTER {
+	content: "SUPER OFERTA";
+	background: #f77f00;
+	height: 30px;
+	margin-bottom: -30px;
+	width: 100%;
+	display: block;
+	color: #fff;
+	z-index: 999999;
+	font-size: 12px;
+	position: relative;
+	text-align: center;
+	line-height: 30px;
+	font-weight: bold;
+}
+
+.js-item-image-padding.position-relative[data-store="product-item-image-168087597"]:after {
+    content: "MAIS VENDIDO";
+    background: #00042b;
+    height: 26px;
+    margin-bottom: -30px;
+    width: fit-content;
+    padding: 0 10px;
+    display: flex;
+    color: #fff;
+    z-index: 999999;
+    font-size: 11px;
+    position: relative;
+    text-align: center;
+    line-height: 26px;
+    font-weight: 600;
+    border-radius: 50px;
+    top: 6px;
+    left: 6px;
+}
