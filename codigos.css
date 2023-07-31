@@ -1,0 +1,13 @@
+*/ aviso abaixo do banner /*
+section[data-store="slider-main"] .js-home-main-slider-container:after {
+		content: "Devido à mudança de plataforma, alguns modelos de tênis ainda não foram adicionados em nosso site. Se você não encontrar o modelo desejado, entre em contato conosco para verificar a disponibilidade.";
+		background: #00042b;
+		color: #fff;
+		width: 100%;
+		padding: 14px 8px;
+		display: block;
+		text-align: center;
+		user-select: text !important;
+		cursor: pointer;
+		line-break: auto;
+	}
