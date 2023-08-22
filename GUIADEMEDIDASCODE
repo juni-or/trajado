@@ -1,0 +1,22 @@
+<!-- BOTÃO DE AÇÃO -->
+
+<div class="medidasinfo"><a class="js-modal-open" href="#" data-toggle="#medidas">
+Não sabe seu tamanho? 
+<div id="medidas" class="btnmedidas"> Guia de Medidas</div>
+</a>
+</div>
+
+
+<!-- MODAL GUIA DE MEDIDAS -->
+<div id="medidas" class="js-modal modal modal-bottom modal-centered-large modal-center modal--md transition-slide modal-centered transition-soft modal-zindex-top modal-show" style="display: none;" data-debug="display" data-prev-visibility="block">
+<div class="js-modal-close  js-close-over-modal modal-header  ">
+<div class="row">
+<div class="col">Guia de Medidas</div>
+<div class="col-auto"><a class="js-modal-close btn-link"> Fechar </a></div>
+</div>
+</div>
+<div class="modal-body ">
+
+</div>
+</div>
+<div class="js-modal-overlay modal-overlay modal-zindex-top" style="display: none;" data-modal-id="#medidas" data-prev-visibility="block">&nbsp;</div>
